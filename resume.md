@@ -4,9 +4,9 @@
 >姓    名：黄永强  	
 >性    别：男                     
 >出生日期：1988年07月  
->兴趣爱好： 足球 旅游  	                  	
+>兴趣爱好：足球 旅游  	                  	
 >联系电话：15858282611  
->博    客： http://blog.csdn.net/wzllai  
+>博    客：http://blog.csdn.net/wzllai  
 >邮    箱：funyq@foxmail.com   
 
 ###教育经历

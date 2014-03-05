@@ -3,7 +3,6 @@
 >姓    名：黄永强  	
 >性    别：男                     
 >出生日期：1988年07月  
->兴趣爱好：足球 旅游  	                  	
 >联系电话：15600608605  
 >博    客：http://blog.csdn.net/wzllai  
 >邮    箱：funyq@foxmail.com   
@@ -16,13 +15,16 @@
 
 ###工作技能
 * 掌握linux下php开发环境的搭建和开发  
-* 熟悉html、css、js、jquery等前端技术  
-* 熟悉mysql、memcached、redis，并在多个项目中应用到  
+* 熟悉html、css、js、jquery、angularjs等前端技术  
+* 熟悉mysql、memcached、redis
 * 熟悉基本的数据结构与算法  
 * 熟悉C语言、shell编程，了解php内核，能用C写php扩展  
-* 掌握面向对象开发思想以及常用设计模式，熟悉ZendFramework、YII等php开源开发框架  
+* 掌握面向对象开发思想以及常用设计模式，熟悉常用php开源开发框架  
 
 ###工作经历  
+**2013.09—今  新浪微博  商业产品广告部**
+>* 广告推荐后台系统开发  
+
 **2013.02—2013.08  上海安居客  基础架构开发部**
 >* 参与公司技术平台化的开发  
 >* 承担部分运维开发  
